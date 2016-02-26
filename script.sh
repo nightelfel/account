@@ -1,0 +1,1 @@
+electron-packager . Record --platform=darwin --arch=x64 --version=0.35.6 --overwrite --icon=icon.icns
